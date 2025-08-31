@@ -31,7 +31,7 @@ npm install
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the scraper with Node.js:
 
@@ -63,7 +63,7 @@ You can customize the URL inside `scrapper.js`.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Node.js**
 * **Puppeteer**
